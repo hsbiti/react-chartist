@@ -1,11 +1,11 @@
 {
-  "name": "react-chartist",
+  "name": "tsfixed-react-chartist",
   "version": "0.13.2",
-  "description": "React component for Chartist.js",
+  "description": "(fork) React component for Chartist.js. This is a fork of git://github.com/fraserxu/react-chartist.git that fixes a problem with typescript props... ",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fraserxu/react-chartist.git"
+    "url": "git://github.com/hsbiti/react-chartist.git"
   },
   "keywords": [
     "react",
